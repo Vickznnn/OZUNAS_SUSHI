@@ -1,0 +1,10 @@
+com\ozunas\model\MenuItem.class
+com\ozunas\servlet\HomeServlet.class
+com\ozunas\config\DatabaseConnection.class
+com\ozunas\servlet\AdminMenuServlet.class
+com\ozunas\servlet\LoginServlet.class
+com\ozunas\servlet\TesteLoginServlet.class
+com\ozunas\dao\UserDAO.class
+com\ozunas\dao\MenuItemDAO.class
+com\ozunas\model\User.class
+com\ozunas\servlet\LogoutServlet.class
